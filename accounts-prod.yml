@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to YesBank accounts Prod APIs"
   contactDetails:
-    name: "Abdul Rahman - Production Manager"
+    name: "Habeeb Rahman - Production Manager"
     email: "abdul@gmail.com"
   onCallSupport:
     - +(91) 987-1234-789
