@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to YesBank accounts APIs"
+  message: "Welcome to YesBank accounts docker APIs"
   contactDetails:
     name: "Habeeb Rahman - Lead Developer"
     email: "habeeb@gmail.com"
